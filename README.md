@@ -1,3 +1,4 @@
+<a id ="up"></a>
 IP-logger
 ---
 📡IP Logger with sending data to Telegram
@@ -42,3 +43,17 @@ And that's all.
 Also if you want, you can style the site with html and css.
 
 ---
+### 💰 Donate
+   <a href="https://www.donationalerts.com/r/nick_vinesmoke"><img src="https://img.shields.io/badge/Donationalerts-F37623?style=for-the-badge&logo=Cash%20App&logoColor=white"></a>
+
+---
+### 📲Contacts
+
+open [issues](https://github.com/Nick-Vinesmoke/IP-logger/issues) or [pull requests](https://github.com/Nick-Vinesmoke/IP-logger/pulls)
+
+or 
+
+<a href="https://github.com/Nick-Vinesmoke"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+   <a href="https://discordapp.com/users/798503509522645012/"><img src="https://img.shields.io/badge/Discord-003E54?style=for-the-badge&logo=Discord&logoColor=white"></a>
+---
+[go up](#up)
