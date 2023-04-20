@@ -49,7 +49,7 @@ Also if you want, you can style the site with html and css.
    <a href="https://www.donationalerts.com/r/nick_vinesmoke"><img src="https://img.shields.io/badge/Donationalerts-F37623?style=for-the-badge&logo=Cash%20App&logoColor=white"></a>
    <a href="https://patreon.com/NickVinesmoke"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
    
-  BTS <code>bc1qfe46xsewu00yhl0llzaxhz9re03y4al0w9p3v2</code>
+  BTC <code>bc1qfe46xsewu00yhl0llzaxhz9re03y4al0w9p3v2</code>
   
   ETH <code>0xeeA063838950D191881EdF0E31b4699B73aD20Ac</code>
   
